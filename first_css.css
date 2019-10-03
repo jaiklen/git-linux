@@ -1,0 +1,8 @@
+body{
+background-color:red;
+font-family:Areal;
+a:link{color:blue}
+a.hover{color:red}
+a.visited{color:purple}
+a.active{color:green}
+}
